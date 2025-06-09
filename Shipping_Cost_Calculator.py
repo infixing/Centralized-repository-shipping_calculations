@@ -1,4 +1,4 @@
- # Here is a new update by infixing
+ # Here is a new update by Charisma Lee
 
 # Shipping Cost Calculator
 
